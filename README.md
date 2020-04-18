@@ -1,4 +1,4 @@
-# Spam-wat-termux
+# Spam-wa dengan-termux
 • instal anu anu_termux
 
 • git-clone-https: // github.com/jhail212/Spam-Wa-termux 
